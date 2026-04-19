@@ -1,0 +1,71 @@
+Filter,Category,Name,Mean Error,Max Error,Pass
+LKF (Linear Kalman Filter),Joint,pelvis,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),Joint,L5,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),Joint,L3,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),Joint,T12,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),Joint,T8,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),Joint,neck,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),Joint,head,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),Joint,shoulderRight,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),Joint,upperArmRight,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),Joint,forearmRight,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),Joint,handRight,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),Joint,shoulderLeft,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),Joint,upperArmLeft,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),Joint,forearmLeft,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),Joint,handLeft,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),Joint,upperLegRight,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),Joint,lowerLegRight,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),Joint,footRight,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),Joint,toeRight,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),Joint,upperLegLeft,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),Joint,lowerLegLeft,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),Joint,footLeft,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),Joint,toeLeft,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),State Component,px,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),State Component,vx,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),State Component,ax,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),State Component,jx,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),State Component,py,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),State Component,vy,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),State Component,ay,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),State Component,jy,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),State Component,pz,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),State Component,vz,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),State Component,az,0.000e+00,0.000e+00,YES
+LKF (Linear Kalman Filter),State Component,jz,0.000e+00,0.000e+00,YES
+EKF (Extended Kalman Filter),Joint,pelvis,0.000e+00,0.000e+00,YES
+EKF (Extended Kalman Filter),Joint,L5,0.000e+00,0.000e+00,YES
+EKF (Extended Kalman Filter),Joint,L3,2.741e-13,1.000e-08,NO
+EKF (Extended Kalman Filter),Joint,T12,2.741e-13,1.000e-08,NO
+EKF (Extended Kalman Filter),Joint,T8,0.000e+00,0.000e+00,YES
+EKF (Extended Kalman Filter),Joint,neck,2.741e-13,1.000e-08,NO
+EKF (Extended Kalman Filter),Joint,head,0.000e+00,0.000e+00,YES
+EKF (Extended Kalman Filter),Joint,shoulderRight,0.000e+00,0.000e+00,YES
+EKF (Extended Kalman Filter),Joint,upperArmRight,2.741e-13,1.000e-08,NO
+EKF (Extended Kalman Filter),Joint,forearmRight,0.000e+00,0.000e+00,YES
+EKF (Extended Kalman Filter),Joint,handRight,0.000e+00,0.000e+00,YES
+EKF (Extended Kalman Filter),Joint,shoulderLeft,0.000e+00,0.000e+00,YES
+EKF (Extended Kalman Filter),Joint,upperArmLeft,0.000e+00,0.000e+00,YES
+EKF (Extended Kalman Filter),Joint,forearmLeft,0.000e+00,0.000e+00,YES
+EKF (Extended Kalman Filter),Joint,handLeft,0.000e+00,0.000e+00,YES
+EKF (Extended Kalman Filter),Joint,upperLegRight,0.000e+00,0.000e+00,YES
+EKF (Extended Kalman Filter),Joint,lowerLegRight,0.000e+00,0.000e+00,YES
+EKF (Extended Kalman Filter),Joint,footRight,0.000e+00,0.000e+00,YES
+EKF (Extended Kalman Filter),Joint,toeRight,0.000e+00,0.000e+00,YES
+EKF (Extended Kalman Filter),Joint,upperLegLeft,2.741e-13,1.000e-08,NO
+EKF (Extended Kalman Filter),Joint,lowerLegLeft,2.741e-13,1.000e-08,NO
+EKF (Extended Kalman Filter),Joint,footLeft,0.000e+00,0.000e+00,YES
+EKF (Extended Kalman Filter),Joint,toeLeft,0.000e+00,0.000e+00,YES
+EKF (Extended Kalman Filter),State Component,px,1.430e-13,1.000e-08,NO
+EKF (Extended Kalman Filter),State Component,vx,0.000e+00,0.000e+00,YES
+EKF (Extended Kalman Filter),State Component,ax,0.000e+00,0.000e+00,YES
+EKF (Extended Kalman Filter),State Component,jx,0.000e+00,0.000e+00,YES
+EKF (Extended Kalman Filter),State Component,py,4.291e-13,1.000e-08,NO
+EKF (Extended Kalman Filter),State Component,vy,1.430e-13,1.000e-08,NO
+EKF (Extended Kalman Filter),State Component,ay,0.000e+00,0.000e+00,YES
+EKF (Extended Kalman Filter),State Component,jy,0.000e+00,0.000e+00,YES
+EKF (Extended Kalman Filter),State Component,pz,0.000e+00,0.000e+00,YES
+EKF (Extended Kalman Filter),State Component,vz,0.000e+00,0.000e+00,YES
+EKF (Extended Kalman Filter),State Component,az,1.430e-13,1.000e-08,NO
+EKF (Extended Kalman Filter),State Component,jz,0.000e+00,0.000e+00,YES
